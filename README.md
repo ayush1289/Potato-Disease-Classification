@@ -1,5 +1,5 @@
 # Disease_Classification
-
+(React Frontend)
 We can insert an image in the given UI:
 ![image](https://user-images.githubusercontent.com/75981710/224365197-f667ffca-0092-4c2c-8ecd-ec90ec67f6e6.png)
 
