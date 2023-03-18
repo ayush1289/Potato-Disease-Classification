@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 import tensorflow as tf
 
-MODEL =tf.keras.models.load_model("/home/ayush/Documents/Disease_Classifcation/model/2")
+MODEL =tf.keras.models.load_model("model/2")
 
 CLASS_NAMES = ["Early Blight","Late Blight","Healthy"]
 
