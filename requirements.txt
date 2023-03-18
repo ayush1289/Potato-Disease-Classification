@@ -4,6 +4,6 @@ uvicorn
 pillow
 matplotlib
 numpy
-
+libcudart.so.11.0
 streamlit
 
