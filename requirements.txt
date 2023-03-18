@@ -4,5 +4,6 @@ uvicorn
 pillow
 matplotlib
 numpy
+
 streamlit
 
