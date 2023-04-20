@@ -9,7 +9,6 @@ import React from "react";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
 import { Paper, CardActionArea, CardMedia, Grid, TableContainer, Table, TableBody, TableHead, TableRow, TableCell } from "@material-ui/core";
-import cblogo from "./cblogo.PNG";
 import image from "./bg.png";
 import { DropzoneArea } from 'material-ui-dropzone';
 
@@ -250,8 +249,13 @@ export const ImageUpload = () => {
                   </Table>
                 </TableContainer>
               </CardContent>}
+              
             </Card>
           </Grid>
+              <p className="footnote">
+                Made with ❤ by Vinayak Chatterjee, Ayush Shankarpurkar and Heeren Kumawat
+
+              </p>
         </Grid>
       </Container>
     </React.Fragment>
